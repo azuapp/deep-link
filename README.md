@@ -1,4 +1,9 @@
 # Deep Link
+### First install packages
+
+```bash
+npm install
+```
 
 ### To run the project type in cmd
 
